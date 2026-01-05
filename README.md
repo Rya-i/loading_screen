@@ -50,5 +50,5 @@ Steps:
 
 ## Preview
 
-![Healthcare Bot Loading Screen](assets/loading.gif)
+![Healthcare Bot Loading Screen](src/assets/loading.gif)
 
