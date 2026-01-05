@@ -32,10 +32,10 @@ Make sure you have the following installed
 Steps: 
 
 - **Clone the repository**
-  - git clone https://github.com/Rya-i/medassist_loading_screen.git
+  - git clone https://github.com/Rya-i/loading_screen.git
 
 - **Navigate to the project folder**
-  - cd medassist_loading_screen
+  - cd loading_screen
 
 - **Install dependencies**
   - npm install
